@@ -1,0 +1,21 @@
+# No subir entrenamiento
+ENTRENAMIENTO IA/
+
+# Python
+MODELO PREDICTIVO/.venv/
+MODELO PREDICTIVO/__pycache__/
+MODELO PREDICTIVO/static/uploads/
+
+# Flutter
+proyectoflutter01/.dart_tool/
+proyectoflutter01/build/
+proyectoflutter01/.idea/
+proyectoflutter01/*.iml
+
+# Android Studio / VS Code
+.idea/
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
